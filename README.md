@@ -3,7 +3,6 @@
 A deliberately exposed Windows VM in Microsoft Azure, wired into Microsoft Sentinel to capture, enrich, and visualize real brute-force login attempts from across the internet.
 
 **[View the live project page →](https://ragebait-987.github.io/azure-honeypot-soc-lab/)**
-*(replace with your actual GitHub Pages URL after enabling it in Settings → Pages)*
 
 ---
 
